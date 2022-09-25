@@ -1,0 +1,25 @@
+body{
+    background-color: whitesmoke;
+    color: rgb(78, 74, 74);
+}
+.main{
+    margin: 25px 50px;
+}
+#desc{
+    margin-left: 0px;
+    padding-bottom: 2px;
+}
+#contentRow{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#title{
+    margin: 20px;
+}
+#table{
+    margin: 50px;
+}
+#buttons{
+    margin: 50px;
+}
